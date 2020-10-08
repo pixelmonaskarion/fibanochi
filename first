@@ -1,9 +1,0 @@
-num1 = 1
-num2 = 0
-fibanochi = 0
-
-for i in range(100):
-    fibanochi = num1+num2
-    print(fibanochi)
-    num2 = num1
-    num1 = fibanochi
